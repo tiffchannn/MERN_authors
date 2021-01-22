@@ -1,0 +1,4 @@
+- Full stack MERN application which allows user to add, update, and delete author(s).
+- Includes validations for both creation and updating of author.
+- Added multiple files for Add and Edit to show refactoring.
+- Refactored files will show that a form component was imported, handling both the creation and updating of an author.
